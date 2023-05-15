@@ -6,6 +6,7 @@ calendar:
   config:
     # use calendar's ID which you want to add.
     calendarId: c13950256cbbc1ab12e036775c5579f088006ca0cf35060c755ec99c5229095f@group.calendar.google.com
+    # you were setted applicationName
     applicationName: calendarsync
     timeZone: Asia/Taipei
 
