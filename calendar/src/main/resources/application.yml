@@ -1,0 +1,20 @@
+path:
+  # client PATH
+  client: 'src/main/resources/calendarsync-385602-d5e29be74d4a.json'
+
+calendar:
+  config:
+    # ??????ID, ?????????????, ?????
+    calendarId: c13950256cbbc1ab12e036775c5579f088006ca0cf35060c755ec99c5229095f@group.calendar.google.com
+    applicationName: calendarsync
+    timeZone: Asia/Taipei
+
+test:
+  data:
+    email: upash123@gmail.com
+spring:
+  output:
+    ansi:
+      enabled:  always
+  main:
+    banner-mode: off
